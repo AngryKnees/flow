@@ -1,0 +1,29 @@
+{
+  "name": "flow",
+  "version": "0.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "serve": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngryKnees/flow.git"
+  },
+  "author": "AngryKnees",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/AngryKnees/flow/issues"
+  },
+  "homepage": "https://github.com/AngryKnees/flow#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.10.2",
+    "@parcel/transformer-inline-string": "^2.10.2",
+    "parcel": "^2.10.2",
+    "twgl.js": "^5.5.3"
+  }
+}
